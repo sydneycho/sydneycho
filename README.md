@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @sydney chongo
-- 👀 I’m interested in business development,User interface design,Digital System Design,Web and mobile app development,
+- 👀 I’m interested in business development, User interface design, Digital System Design, Web and mobile app development,
 Sales and marketing
-- 🌱 I’m currently learning flutter .
-- 💞️ I’m looking to collaborate on any projects related software developmnet
+- 🌱 I’m currently learning flutter.
+- 💞️ I’m looking to collaborate on any projects related to software development
 - 📫 How to reach me
        Email: sydneychongojr@gmail.com
        Mobile No: +919035980451
-       For more infor visit : https://sydneyjr.tech
+       For more info visit : [https://sydneyjr.tech](https://sydneycho.github.io/portfolio/)
 
 <!---
 sydneycho/sydneycho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

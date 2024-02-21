@@ -4,9 +4,9 @@ Sales and marketing
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on any projects related to software development
 - 📫 How to reach me
-       Email: sydneychongojr@gmail.com
+       Email: support@sachoinnovations.com.com
        Mobile No: +919035980451
-       For more info visit : [https://sydneyjr.tech](https://sydneycho.github.io/portfolio/)
+       For more info visit : [https://sachoinnovations.com](https://sydneycho.github.io/portfolio/)
 
 <!---
 sydneycho/sydneycho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

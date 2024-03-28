@@ -6,7 +6,7 @@ Sales and marketing
 - 📫 How to reach me
        Email: Sydneychongojr@gmail.com
        Mobile No: +919035980451
-       For more info visit : [https://sachoinnovations.com](https://sydneycho.github.io/portfolio/)
+       For more info visit :(https://sydneycho.github.io/portfolio/)
 
 <!---
 sydneycho/sydneycho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sydney chongo
 - 👀 I’m interested in business development, User interface design, Digital System Design, Web and mobile app development,
 Sales and marketing
-- 🌱 I’m currently learning flutter.
+- 🌱 I’m  a flutter developer.
 - 💞️ I’m looking to collaborate on any projects related to software development
 - 📫 How to reach me
        Email: Sydneychongojr@gmail.com
